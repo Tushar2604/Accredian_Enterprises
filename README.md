@@ -1,6 +1,5 @@
 # Accredian Enterprise — Next.js Clone
 
-> A production-grade Next.js 14 clone of [enterprise.accredian.com](https://enterprise.accredian.com), built as a hiring evaluation project demonstrating senior full-stack engineering.
 
 ---
 
