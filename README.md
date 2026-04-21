@@ -9,17 +9,7 @@
 
 ---
 
-## Screenshots
 
-| Section | Preview |
-|---------|---------|
-| Hero | _(Add screenshot)_ |
-| Stats + Features | _(Add screenshot)_ |
-| How It Works | _(Add screenshot)_ |
-| Testimonials | _(Add screenshot)_ |
-| Lead Form | _(Add screenshot)_ |
-
----
 
 ## Tech Stack
 
