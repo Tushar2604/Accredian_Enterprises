@@ -5,7 +5,7 @@
 
 ## Live Demo
 
-🔗 **[Deploy on Vercel →](#)** _(placeholder — replace after deployment)_
+🔗 **[Deployed on Vercel →](#)** _(https://accredian-enterprises.vercel.app/)_
 
 ---
 
